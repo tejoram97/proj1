@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contact</title>
+
+    <link rel="stylesheet" href="../css/bootstrap-grid.css">
+    <script>href="../js/javascript.js"</script>
+    <link href="../css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="../css/style.css" rel="stylesheet"/>
+    <link href="../css/styles.css" rel="stylesheet"/>
+    <link href="../css/dashboard.css" rel="stylesheet"/>
+    <link href="../css/owl.carousel.css" rel="stylesheet"/>
+    <link href="../css/font-awesome.min.css" rel="stylesheet"/>
+   
+</head>
+
+
+<body>
+    <header>
+        <div class="navbar navbar-brand background-color:red shadow-sm">
+            <div class="container">
+              <a href="#" class="navbar-brand d-flex align-items-center">
+                <img src="../img/logo.jpg" width="75" height="75"/>
+                <strong><h1 >Reshma Chemicals Pvt. Ltd</h1></strong>
+              </a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="true" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+            </div>
+          </div>
+    </header>
+    <main>
+        <div class="container">
+            <div class="row">
+                <div class="col" >
+                    <nav>
+                        <ol class="breadcrumb text-align:right" >
+                            <li class="card shadow-sm"><a href="../html/index.html">Home</a></li>
+                            <li class="card shadow-sm"><a href="../html/products.html">Products</a></li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        
+        <section id="inner_pages text-align:center">
+            <div class="container">
+                <!--------------part 1---------------->
+                <div class="row">
+                   
+                    <div class="col-md-9">
+                        <article class="article_wrap single_post">
+        
+                            <!-- <div class="row">
+                                <div class="col" style="text-align:right;"> <h6>Status As on: Jun 12, 2021</h6></div>
+                            </div> -->
+                        </article>
+        
+                    </div>  <!-------col-md-9---------->
+                    
+                </div>
+                <!--------------part 1 close---------------->
+                <!--------------part 2 start---------------->
+                <div class="row">
+                    <div class="col-md-12">
+        
+                        <article class="article_wrap single_post">
+        
+                            <p class="card shadow-sm">
+                                <br/>
+                                <h2>Contact Us</h2>
+        
+                            </p>        
+                        </article>
+                    </div>
+                </div>
+        
+                <!-------------- / part 2 ---------------->
+                <!-------------- part 3 ---------------->
+        
+                <div class="row">
+                    
+                        <!------- col-md-9 part 3---------->
+                        <article class="article_wrap single_post">
+                            <div class="col-lg-12">
+                                <div class="dashboard-list-box with-icons margin-top-20"><h4 style="padding:25px 30px;border-bottom:1px solid #eaeaea;font-weight:600">Company Details of RESHMA CHEMICALS PVT. LTD.</h4></div>
+                            </div>
+        
+                            <div class="col-lg-12">
+                                <div class="dashboard-list-box">
+        
+                                    <ul>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>CIN Number :</p></div>
+                                                <div class="list-box-listing-content"><div class=""><p> <a href="/company/RESHMA-CHEMICALS-PVT-LTD" style="color:blue;" title="RESHMA CHEMICALS PVT. LTD."> U24110AP1989PTC010230 </a></p></div></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p> Company Name :</p></div>
+                                                <div class="list-box-listing-content"><p><h2 style="font-size:15px; margin:0px;"> RESHMA CHEMICALS PVT. LTD. </h2></p></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>Current Company Status (for efiling) :</p></div>
+                                                <div class="list-box-listing-content">
+                                                    <div class="inner">
+        <p style="color:green">ACTIVE</p>                                            </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>ROC Where Company is Registered :</p></div>
+                                                <div class="list-box-listing-content"><div class="inner"><p><a href="/company-by-roc/ROC-VIJAYAWADA" style="color:blue;">ROC-VIJAYAWADA </a> </p></div></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>State :</p></div>
+                                                <div class="list-box-listing-content"><div class="inner"><p><a href="/company-by-state/andhra-pradesh" style="color:blue;">Andhra Pradesh </a> </p></div></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>Company Registration Number :</p></div>
+                                                <div class="list-box-listing-content"><div class="inner"><p> 010230</p></div></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p> Company Category :</p></div>
+                                                <div class="list-box-listing-content"><div class="inner"><p> Company limited by Shares</p></div></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>Company Sub Category : </p></div>
+                                                <div class="list-box-listing-content"><div class="inner"><p> Non-govt company</p></div></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>Class of Company :</p></div>
+                                                <div class="list-box-listing-content"><div class="inner"><p> Private</p></div></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p> Date of Incorporation :</p></div>
+                                                <div class="list-box-listing-content"><p> 10-Jul-1989 &nbsp;&nbsp; <a href="/company-by-date/10-Jul-1989" style="color:blue; cursor:pointer;"> View all  Companies Registration with similar Date </a></p></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p> Age of The Company :</p></div>
+                                                <div class="list-box-listing-content"><div class="inner"><p> 32 Year(s) 11 Month(s) 11 Day(s)</p></div></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>Business Activity Code :</p></div>
+                                                <div class="list-box-listing-content">
+                                                    <div class="inner">
+                                                        <p> 24110 </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>Main Business Activity Detail : </p></div>
+                                                <div class="list-box-listing-content">
+                                                    <p> Manufacture of basic chemicals except fertilizers and nitrogen compounds, It Comes Under Division MANUFACTURE OF CHEMICALS AND CHEMICAL PRODUCTS and this come under scetion MANUFACTURING </p>
+                                                    <p><strong> <a href="/company-by-activity/24110" style="color:green;">Click Here </a> </strong> to see other companies involved in same activity. </p>
+                                                </div>
+        
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>  Number of Members(Applicable in case of company without Share Capital) :</p></div>
+                                                <div class="list-box-listing-content"><div class=""><p> Un-Reported </p></div></div>
+                                            </div>
+                                        </li>
+        
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>  Active Compliance :</p></div>
+                                                <div class="list-box-listing-content"><div class=""><p> NA </p></div></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>  Companies Present Filing Status :</p></div>
+                                                <div class="list-box-listing-content"><div class=""><p> NA </p></div></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p>  Suspended at Stock Exchange :</p></div>
+                                                <div class="list-box-listing-content"><div class=""><p> NA </p></div></div>
+                                            </div>
+                                        </li>
+        
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p> Website Url :</p></div>
+                                                <div class="list-box-listing-content"><div class=""><p> <a></a> </p></div></div>
+                                            </div>
+                                        </li>
+        
+                                        <li>
+                                            <div class="list-box-listing">
+                                                <div class="col-md-5"><p> Social Media :</p></div>
+                                                <div class="list-box-listing-content"><div class=""><p>
+                                                <a><i class="fa fa-facebook"></i></a>
+                                                <a><i class="fa fa-linkedin"></i></a>
+                                                <a><i class="fa fa-twitter"></i></a>
+                                                <a><i class="fa fa-youtube"></i></a>
+                                             </p></div></div>
+                                            </div>
+                                        </li>
+        
+                                           
+        
+                                    </ul>
+                                </div>
+                            </div>
+        
+                        </article>
+        
+                        <!--------------part 3 close---------------->
+                        <!--------------part 4 start---------------->
+                                          
+                        <article class="article_wrap single_post">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="col-md-12">
+                                        <div class="dashboard-list-box">
+                                            <span>Share Capital & Number of Employees</span>
+                                            <ul>
+                                                <li>
+                                                    <div class="list-box-listing">
+                                                        <div class="col-md-4"><p> Authorised Capital :</p></div>
+                                                        <div class="list-box-listing-content"><p> &#8377; 1200000</p></div>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="list-box-listing">
+                                                        <div class="col-md-4"><p>Paid up capital : </p></div>
+                                                        <div class="list-box-listing-content"><div class="inner"><p> &#8377; 963000</p></div></div>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="list-box-listing">
+                                                        <div class="col-md-4"><p> Number of Employees in <strong>RESHMA CHEMICALS PVT. LTD. :</strong></p></div>
+                                                            <div class="list-box-listing-content"><p> <a href="/login?name=/company/RESHMA-CHEMICALS-PVT-LTD" id="capital">Login </a>to Get information related to Number of employees in RESHMA CHEMICALS PVT. LTD.</p></div>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                        <!-------------- / part 4 ---------------->
+                        <!--------------  part 5---------------->
+                        <article class="article_wrap single_post">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="col-md-12">
+                                        <div class="dashboard-list-box">
+                                            <span>Listing and Annual Compliance Details</span>
+                                            <ul>
+                                                <li>
+                                                    <div class="list-box-listing">
+                                                        <div class="col-md-6"><p> Listing status :</p></div>
+                                                        <div class="list-box-listing-content"><p> Un-Listed</p></div>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="list-box-listing">
+                                                        <div class="col-md-6"><p>Date of Last Annual General Meeting : </p></div>
+                                                        <div class="list-box-listing-content"><p> Mar 31, 2013</p></div>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="list-box-listing">
+                                                        <div class="col-md-6"><p> Date of Latest Balance Sheet : </p></div>
+                                                        <div class="list-box-listing-content"><p> Mar 31, 2013</p></div>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                        <!-------------- / part 5 ---------------->
+                        <!--------------  part 6 ---------------->
+
+                        <!-------------- / part 8 ---------------->
+                    <!------- / col-md-9 part 3---------->
+                    
+                    <!--------------  part 9 ---------------->
+                    <div class="container">
+                        <div class="row">
+                           
+                                <div class="col-lg-6">
+                                    <div class="dashboard-list-box">
+                                        <span>Contact Details</span>
+                                        <ul>
+                                            <li>
+                                                <div class="list-box-listing">
+                                                    <div class="col-md-4"><p> Email ID: </p></div>
+                                                    <div class="list-box-listing-content"><div class="inner"><p> csguntur@gmail.com</p></div></div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="list-box-listing">
+                                                    <div class="col-md-4"><p> Website:</p></div>
+                                                    <div class="list-box-listing-content"><div class="inner"><p><a href="/claim-company/RESHMA-CHEMICALS-PVT-LTD">Click here to add.</a> </p></div></div>
+        
+                                                        </div>
+        
+                                         </li>
+        
+                                            <li>
+        
+                                                <div class="list-box-listing">
+                                                    <div class="col-md-4"><p>Registered Office Address:</p></div>
+                                                    <div class="list-box-listing-content"><div class=""><p> H.NO.5-163, SAROJINI ROADKETHAN KONDA, IBRAHIMPATNAM KRISHNA DIST IN0</p></div></div>
+                                                </div>
+                                            </li>
+        
+                                            <li>
+                                                <div class="list-box-listing" style="text-align:center;">
+                                                    <div class="col-md-12">
+                                                            <a>	&nbsp;</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+        
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                             <!-- part  -->  
+        
+                                             <!-- part -->
+                                    <iframe width="100%"
+                                            height="320"
+                                            frameborder="0" style="border:0"
+                                            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDJXEt37RQ6T5kROqdvaQkYcLxM3pjbsI4&q=H.NO.5-163,+SAROJINI+ROADKETHAN+KONDA,+IBRAHIMPATNAM+KRISHNA+DIST+IN0" allowfullscreen></iframe>
+                                    
+        
+        
+                                </div>
+                            
+                        </div>
+
+                        <article class="article_wrap single_post">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="col-lg-12">
+                                        <div class="dashboard-list-box">
+                                            <span>Director Details :</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="dashboard-list-box">                                   
+                                      
+                                            <div class="table-responsive"><!--New-->
+                                                <table class="table" id="myTable">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>DIN</th>
+                                                            <th>Director Name</th>
+                                                            <th>Designation </th>
+                                                            <th>Date Of Appointment</th>
+                                                            <th> </th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                                    <tr data-parent="#myTable">
+                                                                        <td>02230867</td>
+                                                                        <td><a href="/director/BONDALAPATI-RAVINDRA-BABU-02230867" style="color:blue;">BONDALAPATI RAVINDRA BABU</a></td> 
+                                                                        <td>Managing Director</td>
+                                                                        <td>2015-03-13</td>
+                                                                        <td><a data-toggle="collapse" data-target="#DirectorDiv-1" style="cursor:pointer;" onclick="ViewOtherDirectorShip('U24110AP1989PTC010230','02230867',1,'BONDALAPATI RAVINDRA BABU')">View other directorships</a></td>
+                                                                    </tr>
+                                                                    <tr id="DirectorDiv-1" class="collapse">
+                                                                        <td colspan="6" class="hiddenRow"><div id="DirectorDivs-1"></div> </td>
+                                                                    </tr>
+                                                                    <tr data-parent="#myTable">
+                                                                        <td>07162202</td>
+                                                                        <td><a href="/director/GAGAN-VAJRA-BONDALAPATI-07162202" style="color:blue;">GAGAN VAJRA BONDALAPATI</a></td> 
+                                                                        <td>Additional Director</td>
+                                                                        <td>2016-11-26</td>
+                                                                        <td><a data-toggle="collapse" data-target="#DirectorDiv-2" style="cursor:pointer;" onclick="ViewOtherDirectorShip('U24110AP1989PTC010230','07162202',2,'GAGAN VAJRA BONDALAPATI')">View other directorships</a></td>
+                                                                    </tr>
+                                                                    <tr id="DirectorDiv-2" class="collapse">
+                                                                        <td colspan="6" class="hiddenRow"><div id="DirectorDivs-2"></div> </td>
+                                                                    </tr>
+        
+        
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+        
+                        </article> 
+
+                        <!-------------- / part 9 ---------------->
+                        <!--------------  part 10 ---------------->
+                        <article class="article_wrap single_post">
+                            <div class="row">
+                                <div class="col-md-12">
+                                  
+                                        <div class="dashboard-list-box">
+                                            <span>Past Director Details of RESHMA CHEMICALS PVT. LTD.</span>
+                                            <br />
+                                            <div class="table-responsive">
+                                                <table class="table">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>DIN</th>
+                                                            <th>Director Name</th>
+                                                            <th>Designation	</th>
+                                                            <th>Appointment Date </th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                         
+                                                            <tr><td colspan="4">
+                                                                <p> Past Director Details of RESHMA CHEMICALS PVT. LTD. is not available publically. to get complete information About Past Directors detail can be viewed by only Registered user of InsiderBiz.
+                                                                <p><strong><a href="/login?name=/company/RESHMA-CHEMICALS-PVT-LTD"  style="color:green;">Login </a></strong> to view past directors. </p>
+                                                            </td></tr>
+                                                    </tbody>
+                                                </table>
+                                                </div>
+                                            </div>
+                                  
+                                    </div>
+                                </div>
+                            
+                        </article>
+                        <!-------------- / part 10 ---------------->
+                        <!--------------  part 11 ---------------->
+                        
+                        <!-------------- / part 11 ---------------->
+                        <!--------------  part 11 ---------------->
+                        
+                        <!-------------- / part 11 ---------------->
+                        <!--------------  part 12 ---------------->
+                        <article class="article_wrap single_post">
+                            <div class="row">
+                           
+                                    <div class="col-md-12">
+                                        <div class="dashboard-list-box">
+                                            <span>Legal Report</span>
+                                            <ul>
+                                                <li>
+                                                    <div class="list-box-listing">
+                                                        <div class="col-md-8"><p><strong> View all criminal and civil cases of RESHMA CHEMICALS PVT. LTD.</strong></p></div>
+                                                        <div class="list-box-listing-content" id="abt_track_btn">
+                                                            <div class="">
+                                                                <a href="#" class="btn">Purchase Legal Report</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>	 <br />
+                                                </li>
+        
+                                            </ul>
+                                        </div>
+                                    </div>
+                               
+                            </div>
+                        </article>
+                        <!-------------- / part 12 ---------------->
+                        <!--------------  part 13 ---------------->
+                        <article class="article_wrap single_post">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="dashboard-list-box with-icons margin-top-20"><h4 style="padding:25px 30px;border-bottom:1px solid #eaeaea;font-weight:600">Financial Report of RESHMA CHEMICALS PVT. LTD.</h4></div>
+                                </div>
+        
+                                <div class="col-lg-6">
+                                    <div class="dashboard-list-box">
+                                        <ul>
+                                            <li>
+                                                <div class="list-box-listing"><div class="col-md-12"><h6 style=" text-decoration:underline;"> Balance Sheet</h6></div></div>
+                                            </li>
+                                            <li>
+                                                <div class="list-box-listing">
+                                                    <div class="col-md-10"><p>Paid-up Capital </p></div>
+                                                    <div class="col-md-2"> <i class="abt-fa fa fa-lock" style="font-size:28px;"></i></div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="list-box-listing">
+                                                    <div class="col-md-10"><p> Reserves & Surplus </p></div>
+                                                    <div class="col-md-2"> <i class="abt-fa fa fa-lock" style="font-size:28px;"></i></div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="list-box-listing">
+                                                    <div class="col-md-10"><p> Long Term Borrowings</p></div>
+                                                    <div class="col-md-2"> <i class="abt-fa fa fa-lock" style="font-size:28px;"></i></div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+        
+                                <div class="col-lg-6">
+                                    <div class="dashboard-list-box">
+                                        <ul>
+                                            <li>
+                                                <div class="list-box-listing"><div class="col-md-12"><h6 style=" text-decoration:underline;"> Profit & Loss</h6></div></div>
+                                            </li>
+                                            <li>
+                                                <div class="list-box-listing">
+                                                    <div class="col-md-10"><p> Total Revenue (Turnover)</p></div>
+                                                    <div class="col-md-2"> <i class="abt-fa fa fa-lock" style="font-size:28px;"></i></div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="list-box-listing">
+                                                    <div class="col-md-10"><p> Total Expenses</p></div>
+                                                    <div class="col-md-2"> <i class="abt-fa fa fa-lock" style="font-size:28px;"></i></div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="list-box-listing">
+                                                    <div class="col-md-10"><p> Employee Benefit Expenses</p></div>
+                                                    <div class="col-md-2"> <i class="abt-fa fa fa-lock" style="font-size:28px;"></i></div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="dashboard-list-box">
+                                        <ul>
+                                            <li>
+                                                <div class="list-box-listing">
+                                                    <p>
+                                                        Unlock complete report with historical financials and view all 24 documents for ₹449 only
+        
+                                                    </p>  <a href="#" class="btn" id="abt_track_btn">Add To Cart</a>
+        
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <i class="fa fa-check" aria-hidden="true"></i> Graphical report containing historical financial performance. Click Here to view financial report of Wipro Ltd.
+        
+                                            </li>
+                                            <li>
+                                                <i class="fa fa-check" aria-hidden="true"></i> Lifetime access to all documents
+        
+                                            </li>
+                                            <li>
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                                Download all Available documents in one click
+                                            </li>
+                                            <li>
+                                                <i class="fa fa-check" aria-hidden="true"></i>
+                                                View Events Timeline - List of all company events since inception. Click Here to view Events Timeline of Wipro Ltd.
+                                            </li>
+                                            <br />
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                        <!-------------- / part 13 ---------------->
+                        <!--------------  part 14 ---------------->
+                         
+                                              
+                        <article class="article_wrap single_post">
+                            <div class="row">
+                                <div class="col-md-12">
+                               
+                                        <div class="dashboard-list-box">
+                                            <span>Establishments Details</span>
+                                            <br />
+                                            <div class="dashboard-list-box">
+                                                <div class="table-responsive">
+                                                    <table class="table">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Establishment Name</th>
+                                                                <th>State</th>
+                                                                <th>Pincode</th>
+                                                                <th>Address</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tr>
+                                                            <td>RESHMA CHEMICALS PVT. LTD.</td>
+                                                            <td>Andhra Pradesh</td>
+                                                            <td></td>
+                                                            <td>H.NO.5-163, SAROJINI ROADKETHAN KONDA, IBRAHIMPATNAM KRISHNA DIST IN0</td>
+                                                        </tr>
+                                                    </table>
+                                                    
+        
+                                                </div>
+                                            </div>
+        
+        
+        
+                                        </div>
+                                 
+                                </div>
+                            </div>
+            
+                        </article>
+                        <br/>
+        
+                        <!-------------- / part 16 ---------------->
+                    </div>
+                </div>
+        
+                <div class="row">
+        
+                  
+                        <div class="container">
+                            <div class="panel-group" id="faqAccordion">
+                                <div class="dashboard-list-box">
+                                    <span>Frequently Asked Questions  </span>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h2 class="panel-title">
+                                            <strong> Who is RESHMA CHEMICALS PVT. LTD. ?</strong>
+                                        </h2>
+                                    </div>
+                                    <div>
+                                        <div class="panel-body">
+        
+                                            <p>
+                                                Company name is a RESHMA CHEMICALS PVT. LTD. registered in Andhra Pradesh.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+        
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h2 class="panel-title">
+                                            <strong>What is CIN NUMBER of RESHMA CHEMICALS PVT. LTD. ? </strong>
+                                        </h2>
+                                    </div>
+                                    <div>
+                                        <div class="panel-body">
+        
+                                            <p>
+                                                CIN NUMBER of RESHMA CHEMICALS PVT. LTD. is – U24110AP1989PTC010230 . Corporate Identification Number ” sometimes referred to as CIN is a unique identification number which is assigned by the ROC (Registrar of Companies) of various states under the MCA (Ministry of Corporate Affairs). <a href="/company/RESHMA-CHEMICALS-PVT-LTD">Click Here to know Secret Behind the CIN NUMBER</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h2 class="panel-title">
+                                            <strong>When RESHMA CHEMICALS PVT. LTD. was incorporated? </strong>
+                                        </h2>
+                                    </div>
+                                    <div>
+                                        <div class="panel-body">
+        
+                                            <p>
+                                                The Company Was incorporated on Dated -  10-Jul-1989. You can see the list of Company Who was incorpated on same date with this Company.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h2 class="panel-title">
+                                            <strong>What is financial status of RESHMA CHEMICALS PVT. LTD. ?</strong>
+                                        </h2>
+                                    </div>
+                                    <div>
+                                        <div class="panel-body">
+        
+                                            <p>
+                                                As per Current  Record With Us, RESHMA CHEMICALS PVT. LTD. Authorised Capital (Rs): 	1200000 &  Paid up Capital(Rs) : 963000.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h2 class="panel-title">
+                                            <strong>Where is RESHMA CHEMICALS PVT. LTD. Registered ? </strong>
+                                        </h2>
+                                    </div>
+                                    <div>
+                                        <div class="panel-body">
+        
+                                            <p>
+                                                RESHMA CHEMICALS PVT. LTD. Is Registered in Andhra Pradesh state under ROC-VIJAYAWADA, And Registered Office is – H.NO.5-163, SAROJINI ROADKETHAN KONDA, IBRAHIMPATNAM KRISHNA DIST IN0.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h2 class="panel-title">
+                                            <strong>How We can Contact Company for Our Concern/Issue/Query ? </strong>
+                                        </h2>
+                                    </div>
+                                    <div>
+                                        <div class="panel-body">
+        
+                                            <p>
+                                                You can Directly mail to Company Registered Email Id Which you Have Seen Above on Detail. Also You Can post Your Query/concern/issue/feedback With The Given Form In Company Location Page. Your Query/concern/feedback/issue Directly Go to Company Email ID with Us. Also you can See Company Response on Your Feedback/Query/concern/issue in Our Customer Desk.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+        
+                            </div>
+                            <!--/panel-group-->
+        
+        
+                        </div>
+                    
+                </div>
+        
+        
+        
+                <div class="row">
+                    <div class="col-md-12">
+        
+                        <article class="article_wrap single_post">
+        
+                            <p style="text-align:justify;">*Industry classification is derived from National Industrial Classification. If the company has changed line of business without intimating the Registrar or is a diversified business, classification may be different. We make no warranties about accuracy of industrial classification. </p></br>
+                            <h6> <strong> Update Regsitereed Company Information </strong></h6>
+                            <p style="text-align:justify;">We are adding and updating information about hundreds of thousands of companies every day, and periodically add companies to the queue for being updated. You can ask for a company to be added to the front of the queue for updating, especially useful if the address, directors, or other critical information has changed. Just click on the 'Update Information' button below to start the process.</p>
+                            
+        
+                            <p id="DivMessage"></p>
+                            <p>
+                                    <a href="/login?name=/company/RESHMA-CHEMICALS-PVT-LTD" class="btn btn-primary">Update Information</a>
+                            </p>
+                        </article>
+                    </div>
+                </div>
+        
+        
+            </div>
+        
+            <!-- /Similar-Listings -->
+            <!-- Report -->
+            <!-- /Report -->
+            <div id="report_modal_DISCREPANCY" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close" id="BtnReDeClose"><span aria-hidden="true">×</span></button>
+                            <p class="modal-title" style="font-size: 28px;">REPORT DISCREPANCY</p>
+                            <p>Provide details as to what's out of order.</p>
+                        </div>
+                        <div class="modal-body">
+        
+                            <form id="form">
+                                <div class="form-group">
+                                    COMPANY : RESHMA CHEMICALS PVT. LTD. (U24110AP1989PTC010230)
+                                </div>
+                                <div class="form-group">
+                                    <input class="form-control" placeholder="Your Email Address" type="email" id="Re_email">
+                                    <span id="errNm1" class="text-danger"></span>
+                                </div>
+        
+                                <div class="form-group">
+                                    <textarea rows="4" class="form-control" placeholder="Details" id="Re_detail"></textarea>
+                                    <span id="errNm2" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <div class="alert alert-success" id="DivReSuccess" style="display:none;">
+        
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <input value="Submit" class="btn btn-block" type="button" id="BtnReportDiscr">
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        
+            <div id="request_modal_UpdateNow" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close" id="BtnUpClose"><span aria-hidden="true">×</span></button>
+                            <h3 class="modal-title">Update now</h3>
+                            <p>Provide details as to what's out of order.</p>
+                        </div>
+                        <div class="modal-body">
+        
+                            <form id="form">
+                                <div class="form-group">
+                                    COMPANY : RESHMA CHEMICALS PVT. LTD. (U24110AP1989PTC010230)
+                                </div>
+                                <div class="form-group">
+                                    <input class="form-control" placeholder="Your Email Address" type="email" id="Up_email">
+                                    <span id="UpErrNm1" class="text-danger"></span>
+                                </div>
+        
+                                <div class="form-group">
+                                    <textarea rows="4" class="form-control" placeholder="Details" id="Up_detail"></textarea>
+                                    <span id="UpErrNm2" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <div class="alert alert-success" id="DivUpSuccess" style="display:none;">
+        
+                                    </div>
+                                </div>
+          
+                            </form>
+        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        </section>
+
+    </main>
+    
+<footer class="text-muted py-5">
+  <div class="container">
+    <p class="float-end mb-1">
+      <a href="#">Back to top</a>
+    </p>
+    <p class="mb-1">Copyright &copy; reshma chemicals pvt. ltd</p>
+    <p class="mb-0">New to Site? <a href="/">Visit the homepage</a> or Know Our <a href="/html/products.html">Products</a>.</p>
+  </div>
+
+</footer>
+
+</body>
+</html>
